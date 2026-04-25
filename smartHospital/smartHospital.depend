@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1777101541 source:c:\c++\smart hospital\smarthospital\doctor.cpp
+	"Doctor.h"
+	<iomanip>
+
+1777101541 c:\c++\smart hospital\smarthospital\doctor.h
+	"Person.h"
+	<fstream>
+
+1777101541 c:\c++\smart hospital\smarthospital\person.h
+	<iostream>
+	<string>
+
+1777101541 source:c:\c++\smart hospital\smarthospital\hospital.cpp
+	"Hospital.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<algorithm>
+	<limits>
+
+1777101541 c:\c++\smart hospital\smarthospital\hospital.h
+	"Patient.h"
+	"Doctor.h"
+	"Appointment.h"
+	"Bill.h"
+	"Exceptions.h"
+	<vector>
+	<map>
+
+1777101541 c:\c++\smart hospital\smarthospital\patient.h
+	"Person.h"
+	<fstream>
+
+1777101541 c:\c++\smart hospital\smarthospital\appointment.h
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
+1777101541 c:\c++\smart hospital\smarthospital\bill.h
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
+1777101541 c:\c++\smart hospital\smarthospital\exceptions.h
+	<exception>
+	<string>
+
+1777101541 source:c:\c++\smart hospital\smarthospital\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	"Hospital.h"
+
+1777101541 source:c:\c++\smart hospital\smarthospital\patient.cpp
+	"Patient.h"
+	<iomanip>
+
+1777101541 source:c:\c++\smart hospital\smarthospital\person.cpp
+	"Person.h"
+
